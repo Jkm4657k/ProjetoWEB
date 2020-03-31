@@ -1,0 +1,52 @@
+/*ARQUIVO DE ESTILO DO CSS*/
+
+h1{
+    color:red;
+}
+
+/*div{
+
+    background-color: blue;
+}
+*/
+
+/*CLASS*/
+.h2Titulos{
+    color: hotpink;
+    border: 2px solid green;
+
+}
+
+.DIVcentro{
+
+    /*background-color: orange;*/
+    border: 2px solid green;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+/*IDs*/
+
+#DIVtopo{
+background-color: grey;
+width: 710px;
+height: 200px;
+margin-top: 10px;
+margin-left: 20px;
+margin-right: 10px;
+margin-bottom: 10px;
+padding-top: 10px;
+padding-left: 10px;
+padding-bottom: 10px;
+}
